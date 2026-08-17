@@ -25,6 +25,3 @@ Power BI Desktop
 Files
 Fraud_PowerBi.pbix — open in Power BI Desktop to explore interactively
 dashboard-preview.png — static preview of the dashboard
-Related Project
-
-Same dataset, explored a different way — see my Streamlit fraud detection dashboard (ML classification, second place at Newtech bootcamp).
