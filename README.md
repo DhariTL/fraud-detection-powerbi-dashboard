@@ -2,7 +2,7 @@ Fraud Detection Dashboard (Power BI)
 
 An interactive Power BI dashboard analyzing fraud patterns across financial transactions — payment methods, devices, locations, and transaction types.
 
-<img width="1957" height="1221" alt="image" src="https://github.com/user-attachments/assets/6d6c4509-d433-4999-b17d-220cd3afb068" />
+<img width="2099" height="1176" alt="image" src="https://github.com/user-attachments/assets/32e2b31e-e1ec-4677-a5a3-f2f06df6c1c3" />
 
 Dataset
 
